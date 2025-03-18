@@ -14,4 +14,4 @@ Jest to prosty skrypt generatora haseł w PHP, który pozwala użytkownikom na g
 
    ```bash
    git clone https://github.com/TwojeUzytkownik/password-generator.git
-  cd password-generator
+   cd password-generator
